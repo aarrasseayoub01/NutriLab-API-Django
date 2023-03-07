@@ -8,17 +8,20 @@ Food = [{"Salt": 0.0, "Protein": 0.188, "Calories": 61.8, "Fat": 0.212, "Fiber":
         {"Salt": 0.0, "Protein": 0.882, "Calories": 31.7, "Fat": 0.156, "Fiber": 0.967, "Carbs": 6.7, "Sugar": 0, "name": "Peppers, bell, orange, raw"}, {"Salt": 92.5, "Protein": 3.46, "Calories": 42.8, "Fat": 1.08, "Fiber": 0, "Carbs": 4.81, "Sugar": 0, "name": "Buttermilk, low fat"}, {"Salt": 41.8, "Protein": 3.82, "Calories": 78.0, "Fat": 4.48, "Fiber": 0, "Carbs": 5.57, "Sugar": 4.09, "name": "Yogurt, plain, whole milk"}, {"Salt": 33.8, "Protein": 8.78, "Calories": 93.7, "Fat": 4.39, "Fiber": 0, "Carbs": 4.75, "Sugar": 3.25, "name": "Yogurt, Greek, plain, whole milk"}, {"Salt": 1050.0, "Protein": 30.1, "Calories": 403, "Fat": 29.5, "Fiber": 0, "Carbs": 4.33, "Sugar": 0.638, "name": "Cheese, parmesan, grated, refrigerated"}, {"Salt": 1030.0, "Protein": 19.7, "Calories": 273, "Fat": 19.1, "Fiber": 0, "Carbs": 5.58, "Sugar": 1.63, "name": "Cheese, feta, whole milk, crumbled"}, {"Salt": 0.894, "Protein": 26.2, "Calories": 622, "Fat": 50.2, "Fiber": 9.27, "Carbs": 16.2, "Sugar": 0, "name": "Flour, almond"}, {"Salt": 3.62, "Protein": 13.2, "Calories": 389, "Fat": 6.31, "Fiber": 10.5, "Carbs": 69.9, "Sugar": 0, "name": "Flour, oat, whole grain"}, {"Salt": 47.7, "Protein": 8.11, "Calories": 361, "Fat": 0.951, "Fiber": 5.4, "Carbs": 79.9, "Sugar": 0, "name": "Flour, potato"}, {"Salt": 221, "Protein": 24.0, "Calories": 632, "Fat": 49.4, "Fiber": 6.32, "Carbs": 22.7, "Sugar": 0, "name": "Peanut butter, creamy"}, {"Salt": 63.6, "Protein": 19.7, "Calories": 697, "Fat": 62.4, "Fiber": 8.37, "Carbs": 14.2, "Sugar": 0, "name": "Sesame butter, creamy"}, {"Salt": 0.996, "Protein": 20.8, "Calories": 645, "Fat": 53.0, "Fiber": 9.72, "Carbs": 21.2, "Sugar": 0, "name": "Almond butter, creamy"}, {"Salt": 36.7, "Protein": 18.0, "Calories": 545, "Fat": 37.3, "Fiber": 23.1, "Carbs": 34.4, "Sugar": 0, "name": "Flaxseed, ground"}, {"Salt": 350, "Protein": 11.6, "Calories": 103, "Fat": 4.22, "Fiber": 0, "Carbs": 4.6, "Sugar": 0, "name": "Cottage cheese, full fat, large or small curd"}, {"Salt": 368, "Protein": 5.79, "Calories": 343, "Fat": 33.5, "Fiber": 0, "Carbs": 4.56, "Sugar": 0, "name": "Cream cheese, full fat, block"}, {"Salt": 20.6, "Protein": 2.02, "Calories": 343, "Fat": 35.6, "Fiber": 0, "Carbs": 3.8, "Sugar": 0, "name": "Cream, heavy"}, {"Salt": 50.0, "Protein": 3.07, "Calories": 196, "Fat": 18.0, "Fiber": 0, "Carbs": 5.56, "Sugar": 0, "name": "Cream, sour, full fat"}, {"Salt": 16.1, "Protein": 0.742, "Calories": 17.1, "Fat": 0.074, "Fiber": 0, "Carbs": 3.37, "Sugar": 0, "name": "Lettuce, iceberg, raw"}, {"Salt": 23.0, "Protein": 0.977, "Calories": 20.8, "Fat": 0.071, "Fiber": 0, "Carbs": 4.06, "Sugar": 0, "name": "Lettuce, romaine, green, raw"}, {"Salt": 24.9, "Protein": 0.883, "Calories": 17.5, "Fat": 0.106, "Fiber": 0, "Carbs": 3.26, "Sugar": 0, "name": "Lettuce, leaf, red, raw"}, {"Salt": 28.9, "Protein": 1.09, "Calories": 22.0, "Fat": 0.156, "Fiber": 0, "Carbs": 4.07, "Sugar": 0, "name": "Lettuce, leaf, green, raw"}, {"Salt": 0.0, "Protein": 15.7, "Calories": 689, "Fat": 61.3, "Fiber": 3.94, "Carbs": 18.6, "Sugar": 0, "name": "Nuts, pine nuts, raw"}, {"Salt": 0.0, "Protein": 21.5, "Calories": 626, "Fat": 51.1, "Fiber": 10.8, "Carbs": 20.0, "Sugar": 0, "name": "Nuts, almonds, whole, raw"}, {"Salt": 0.0, "Protein": 14.6, "Calories": 730, "Fat": 69.7, "Fiber": 5.21, "Carbs": 10.9, "Sugar": 0, "name": "Nuts, walnuts, English, halves, raw"}, {"Salt": 0.0, "Protein": 9.96, "Calories": 750, "Fat": 73.3, "Fiber": 5.79, "Carbs": 12.7, "Sugar": 0, "name": "Nuts, pecans, halves, raw"}, {"Salt": 0.668, "Protein": 13.5, "Calories": 382, "Fat": 5.89, "Fiber": 0, "Carbs": 68.7, "Sugar": 0, "name": "Oats, whole grain, rolled, old fashioned"}, {"Salt": 0.311, "Protein": 12.5, "Calories": 381, "Fat": 5.8, "Fiber": 0, "Carbs": 69.8, "Sugar": 0, "name": "Oats, whole grain, steel cut"}, {"Salt": 0.0, "Protein": 0.461, "Calories": 60.1, "Fat": 0.211, "Fiber": 0.935, "Carbs": 14.1, "Sugar": 11.4, "name": "Pineapple, raw"}, {"Salt": 0.0, "Protein": 1.04, "Calories": 70.5, "Fat": 0.192, "Fiber": 0, "Carbs": 16.2, "Sugar": 13.9, "name": "Cherries, sweet, dark red, raw"}, {"Salt": 0.0, "Protein": 1.97, "Calories": 40.0, "Fat": 0.275, "Fiber": 3.01, "Carbs": 7.41, "Sugar": 2.33, "name": "Beans, snap, green, raw"}, {"Salt": 2.74, "Protein": 2.27, "Calories": 83.4, "Fat": 0.36, "Fiber": 0, "Carbs": 17.8, "Sugar": 0.526, "name": "Potatoes, russet, without skin, raw"}, {"Salt": 2.86, "Protein": 2.06, "Calories": 75.6, "Fat": 0.248, "Fiber": 0, "Carbs": 16.3, "Sugar": 0.664, "name": "Potatoes, red, without skin, raw"}, {"Salt": 2.24, "Protein": 1.81, "Calories": 73.5, "Fat": 0.264, "Fiber": 0, "Carbs": 16.0, "Sugar": 0.645, "name": "Potatoes, gold, without skin, raw"}, {"Salt": 0.0, "Protein": 1.58, "Calories": 79.0, "Fat": 0.375, "Fiber": 0, "Carbs": 17.3, "Sugar": 6.06, "name": "Sweet potatoes, orange flesh, without skin, raw"}, {"Salt": 97.2, "Protein": 0.492, "Calories": 16.7, "Fat": 0.162, "Fiber": 0, "Carbs": 3.32, "Sugar": 0, "name": "Celery, raw"}, {"Salt": 1.52, "Protein": 0.625, "Calories": 15.9, "Fat": 0.178, "Fiber": 0, "Carbs": 2.95, "Sugar": 0, "name": "Cucumber, with peel, raw"}, {"Salt": 16.1, "Protein": 0.961, "Calories": 31.4, "Fat": 0.228, "Fiber": 0, "Carbs": 6.38, "Sugar": 0, "name": "Cabbage, green, raw"}, {"Salt": 11.7, "Protein": 1.24, "Calories": 34.1, "Fat": 0.214, "Fiber": 0, "Carbs": 6.79, "Sugar": 0, "name": "Cabbage, red, raw"}, {"Salt": 0.0, "Protein": 0.641, "Calories": 36.4, "Fat": 0.22, "Fiber": 0, "Carbs": 7.96, "Sugar": 4.86, "name": "Strawberries, raw"}, {"Salt": 0.0, "Protein": 1.01, "Calories": 57.3, "Fat": 0.188, "Fiber": 0, "Carbs": 12.9, "Sugar": 2.68, "name": "Raspberries, raw"}, {"Salt": 0.0, "Protein": 0.703, "Calories": 63.9, "Fat": 0.306, "Fiber": 0, "Carbs": 14.6, "Sugar": 9.36, "name": "Blueberries, raw"}, {"Salt": 7.0, "Protein": 0.914, "Calories": 85.9, "Fat": 0.164, "Fiber": 0, "Carbs": 20.2, "Sugar": 17.3, "name": "Grapes, red, seedless, raw"}, {"Salt": 3.17, "Protein": 0.899, "Calories": 80.1, "Fat": 0.232, "Fiber": 0, "Carbs": 18.6, "Sugar": 16.1, "name": "Grapes, green, seedless, raw"}, {"Salt": 0.504, "Protein": 0.273, "Calories": 51.6, "Fat": 0.162, "Fiber": 0, "Carbs": 12.3, "Sugar": 9.66, "name": "Applesauce, unsweetened, with added vitamin C"}]
 NutriList = ["Calories", "Protein", "Carbs", "Fat",
              "Fiber", "Salt", "Sugar"]
+
 FoodList = []
-FoodListWithName = []
+FoodNames = []
 for i in range(len(Food)):
+
     FoodNutri = []
     for j in range(7):
         FoodNutri.append(Food[i][NutriList[j]])
     FoodList.append(FoodNutri)
-    FoodListWithName.append([Food[i]["name"]] + FoodNutri)
+    FoodNames.append([Food[i]["name"]])
 
 
 def retrieveFood(request):
+
     n = len(FoodList)
     H = []
     for i in range(7):
@@ -38,19 +41,25 @@ def retrieveFood(request):
     # cons = [{'type': 'ineq', 'fun': constraint1},
     #         {'type': 'ineq', 'fun': constraint2}]
     bounds = [(0, 3)] * n
+    for foodName in range(len(FoodNames)):
+        for food in range(len(request["foods"])):
+
+            if FoodNames[foodName] == request["foods"][food]["name"]:
+                bounds[foodName] = (-request["foods"][food]["weight"] /
+                                    200, request["foods"][food]["weight"]/200)
     res = minimize(objective, x0, bounds=bounds)
     results = {}
     for i in range(len(res.x)):
         if res.x[i] > 0.05:
-            results[FoodListWithName[i][0]] = res.x[i]*100
+            results[FoodNames[i]] = res.x[i]*100
     return results
 
 
-result = retrieveFood({"Salt": 20, "Protein": 20, "Calories": 200,
-                       "Fat": 50, "Fiber": 10, "Carbs": 50,  "Sugar": 20})
+# result = retrieveFood({"Salt": 20, "Protein": 20, "Calories": 200,
+#                        "Fat": 50, "Fiber": 10, "Carbs": 50,  "Sugar": 20})
 
 # print(result.success)  # Whether the optimization was successful
 # print(result.x[0])  # Binary variables indicating which rocks were used
 # Cumulated characteristics of the rocks in
 # print(np.dot(result.x,  np.array(FoodList)))
-print(result)
+# print(result)
