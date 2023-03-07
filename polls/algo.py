@@ -17,7 +17,7 @@ for i in range(len(Food)):
     for j in range(7):
         FoodNutri.append(Food[i][NutriList[j]])
     FoodList.append(FoodNutri)
-    FoodNames.append([Food[i]["name"]])
+    FoodNames.append(Food[i]["name"])
 
 
 def retrieveFood(request):
@@ -47,17 +47,31 @@ def retrieveFood(request):
             if FoodNames[foodName] == request["foods"][food]["name"]:
                 bounds[foodName] = (-request["foods"][food]["weight"] /
                                     200, request["foods"][food]["weight"]/200)
+
     res = minimize(objective, x0, bounds=bounds)
     results = {}
     for i in range(len(res.x)):
-        if res.x[i] > 0.05:
-            results[FoodNames[i]] = res.x[i]*100
+        if res.x[i] < 0 or res.x[i] > 0.05:
+            results[FoodNames[i]] = (res.x)[i]*100
     return results
 
 
-# result = retrieveFood({"Salt": 20, "Protein": 20, "Calories": 200,
-#                        "Fat": 50, "Fiber": 10, "Carbs": 50,  "Sugar": 20})
-
+result = retrieveFood({
+    "Calories": -6508,
+    "Protein": 105.8,
+    "Carbs": -1995,
+    "Fat": 35.7,
+    "Fiber": -267,
+    "Salt": -145.5,
+    "Sugar": -1959,
+    "foods": [
+        {
+            "name": "Apples, fuji, with skin, raw",
+            "weight": 15000
+        }
+    ]
+})
+print(result)
 # print(result.success)  # Whether the optimization was successful
 # print(result.x[0])  # Binary variables indicating which rocks were used
 # Cumulated characteristics of the rocks in
