@@ -40,18 +40,18 @@ def retrieveFood(request):
 
     # cons = [{'type': 'ineq', 'fun': constraint1},
     #         {'type': 'ineq', 'fun': constraint2}]
-    bounds = [(0, 3)] * n
+    bounds = [(0, 2)] * n
     for foodName in range(len(FoodNames)):
         for food in range(len(request["foods"])):
 
             if FoodNames[foodName] == request["foods"][food]["name"]:
                 bounds[foodName] = (-request["foods"][food]["weight"] /
-                                    200, request["foods"][food]["weight"]/200)
+                                    200, min([request["foods"][food]["weight"]/200, 2]))
 
     res = minimize(objective, x0, bounds=bounds)
     results = {}
     for i in range(len(res.x)):
-        if res.x[i] < 0 or res.x[i] > 0.05:
+        if res.x[i] < 0 or res.x[i] > 0.5:
             results[FoodNames[i]] = (res.x)[i]*100
     return results
 
