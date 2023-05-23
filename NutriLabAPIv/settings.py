@@ -25,7 +25,7 @@ SECRET_KEY = 'vmrv-*zwh)x2(^50@74$r(vytugk^im)b2^$z7o#%q0a^jc!8i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['nutrilab-api.up.railway.app']
+ALLOWED_HOSTS = ['nutrilab-api.up.railway.app', 'nutrilab-server.up.railway.app]
 
 
 # Application definition
