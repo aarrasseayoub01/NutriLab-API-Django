@@ -2098,5 +2098,50 @@ Food = [{
         "Carbs": 12.3,
         "Salt": 0.504,
         "Sugar": 9.66
+        },{
+        "name": "Moroccan Bread - Khobz (100g)",
+        "Protein": 7,
+        "Calories": 275,
+        "Fat": 3,
+        "Fiber": 3,
+        "Carbs": 55,
+        "Salt": 1.125,
+        "Sugar": 0.0
+        },{
+        "name": "One chicken egg (50g)",
+        "Protein": 6,
+        "Calories": 75,
+        "Fat": 5,
+        "Fiber": 0,
+        "Carbs": 0.5,
+        "Salt": 0.07,
+        "Sugar": 0.5
+        },{
+        "name": "One Spreadable cheese piece (21g)",
+        "Protein": 1.5,
+        "Calories": 42.5,
+        "Fat": 3,
+        "Fiber": 0,
+        "Carbs": 0.5,
+        "Salt": 0.075,
+        "Sugar": 0.5
+        },{
+        "name": "One Medium sized Onion (110g)",
+        "Protein": 1.2,
+        "Calories": 44,
+        "Fat": 0.1,
+        "Fiber": 2,
+        "Carbs": 10,
+        "Salt": 0.001,
+        "Sugar": 4
+        },{
+        "name": "One Medium sized Tomato (123g)",
+        "Protein": 1,
+        "Calories": 22,
+        "Fat": 0.2,
+        "Fiber": 1.5,
+        "Carbs": 4,
+        "Salt": 0.005,
+        "Sugar": 3.5
         }
         ]
