@@ -2098,7 +2098,7 @@ Food = [{
         "Carbs": 12.3,
         "Salt": 0.504,
         "Sugar": 9.66
-        },{
+        }, {
         "name": "Moroccan Bread - Khobz (100g)",
         "Protein": 7,
         "Calories": 275,
@@ -2107,7 +2107,7 @@ Food = [{
         "Carbs": 55,
         "Salt": 1.125,
         "Sugar": 0.0
-        },{
+        }, {
         "name": "One chicken egg (50g)",
         "Protein": 6,
         "Calories": 75,
@@ -2116,7 +2116,7 @@ Food = [{
         "Carbs": 0.5,
         "Salt": 0.07,
         "Sugar": 0.5
-        },{
+        }, {
         "name": "One Spreadable cheese piece (21g)",
         "Protein": 1.5,
         "Calories": 42.5,
@@ -2125,7 +2125,7 @@ Food = [{
         "Carbs": 0.5,
         "Salt": 0.075,
         "Sugar": 0.5
-        },{
+        }, {
         "name": "One Medium sized Onion (110g)",
         "Protein": 1.2,
         "Calories": 44,
@@ -2134,7 +2134,7 @@ Food = [{
         "Carbs": 10,
         "Salt": 0.001,
         "Sugar": 4
-        },{
+        }, {
         "name": "One Medium sized Tomato (123g)",
         "Protein": 1,
         "Calories": 22,
@@ -2143,5 +2143,45 @@ Food = [{
         "Carbs": 4,
         "Salt": 0.005,
         "Sugar": 3.5
-        }
-        ]
+        },
+        {
+    "name": "Parsley (100mg)",
+    "Protein": 3,
+    "Calories": 36,
+    "Fat": 0.8,
+    "Fiber": 3.3,
+    "Carbs": 6.3,
+    "Salt": 0.0,
+    "Sugar": 0.9
+},
+    {
+    "name": "Cumin (100mg)",
+    "Protein": 17.8,
+    "Calories": 375,
+    "Fat": 22.27,
+    "Fiber": 10.5,
+    "Carbs": 44.2,
+    "Salt": 0.93,
+    "Sugar": 2.25
+},
+    {
+    "name": "Sandwich (Fish, potato cakes)",
+    "Protein": 17.5,
+    "Calories": 450,
+    "Fat": 17.5,
+    "Fiber": 4,
+    "Carbs": 45,
+    "Salt": 1.5,
+    "Sugar": 7.5
+},
+    {
+    "name": "French Tacos with chicken",
+    "Protein": 25,
+    "Calories": 500,
+    "Fat": 20,
+    "Fiber": 4,
+    "Carbs": 40,
+    "Salt": 2.15,
+    "Sugar": 5
+}
+]
